@@ -1,6 +1,6 @@
 # Scrabble
 
-A multiplayer game made with Cocos Creator.
+多人对战消单词游戏 。 A multiplayer game made with Cocos Creator.
 
 ### Preview
 
